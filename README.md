@@ -9,4 +9,4 @@ Por ahora todo está como dependencias, aunque incluye un par de funciones simpl
 
 ## TO-DO:
 
-Todo, en este momento es solo un repo vacío.
+Todo, en este momento es solo un repo con el comando que envío a DTI
