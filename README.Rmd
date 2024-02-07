@@ -1,14 +1,23 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# gaborioRRIICuanti
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
 
+# gaborioRRIICuanti
 Paquete de R para la clase de Introducción Cuantitativa para RRII
 
 ## Introducción
-
-Este meta-paquete está en construcción, irá incluyendo todos los
-paquetes de R que usaré en la clase de RRII.
+Este meta-paquete está en construcción, irá incluyendo todos los paquetes de R que usaré en la clase de RRII.
 
 Por ahora solo está el script para instalar los paquetes que mando a dti
 
